@@ -12,6 +12,6 @@
     "jquery": "^1.11.3",
     "loader.js": "ember-cli/loader.js#3.2.1",
     "qunit": "~1.18.0",
-    "countUp.js": "1.5.3"
+    "countUp.js": "1.7.1"
   }
 }
